@@ -10,4 +10,4 @@ Run: python -m pip install Django
 Run: pip install -r requirements.txt
 Run: python manage.py runserver
 
-How a Good Time!
+Have a Good Time!
